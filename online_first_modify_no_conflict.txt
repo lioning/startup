@@ -2,3 +2,5 @@ Everything is fine.
 Everything is local-OK.
 Everything is online-fine.
 Everything is OK.
+
+根本没有不冲突一说，只要线上和本地同时修改了，必定冲突
