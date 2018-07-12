@@ -1,2 +1,4 @@
 Everything is online-fine.
 Everything is local-OK.
+
+只要线上本地同时修改，必定有冲突，和先后顺序无关
