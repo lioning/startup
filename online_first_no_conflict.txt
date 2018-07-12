@@ -1,2 +1,4 @@
 This is first line.
 Local create, commit and push behind online.
+
+产生create和merge两条log，原因似乎是本地确实有两次commit，只不过push只有一次
