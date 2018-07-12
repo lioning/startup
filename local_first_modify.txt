@@ -1,2 +1,2 @@
 Everything is fine.
-Everything is OK.
+Everything is local-OK.
